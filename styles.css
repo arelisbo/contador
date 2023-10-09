@@ -1,0 +1,53 @@
+:root{
+    --colorPrimario:#DAF7A6 ;
+    --colorSecundario:#FFC300;
+    --colorTerceario:#FF5733 ;
+    --colorCuarto:#C70039 ;
+    --colorQuinto:#900C3F;
+    --colorSexto:#581845;
+} 
+    
+    
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.contenedor{
+  background-color:rgba(233, 8, 8, 0.998) ;
+    margin: 80px;
+    padding: 20px;
+    border-radius: 10%;
+    border-color:rgb(228, 21, 31);
+    border-width: 10px;
+    border-style: solid;
+
+    
+}
+
+.contador{
+    margin: 50px;
+   color: black;
+}
+
+h1{
+    font-size: 46px;
+    margin-bottom: 20px;
+    padding: 10px  1px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: azure;
+    border-radius: 10%;
+    
+
+    
+    
+}
+button{
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 30px;
+   background-color:rgb(62, 137, 223);
+   border-color:rgb(239, 174, 177);
+    border-width: 2px;
+    border-style: solid;
+}
